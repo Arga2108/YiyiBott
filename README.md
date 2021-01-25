@@ -58,8 +58,26 @@ Script ini di modifikasi sama MaslentGans dn dimodifikasi oleh saya (walaupun se
 > git clone https://github.com/Arga2108/YiyiBott
 > cd YiyiBott
 > bash install.sh
-> node index js
+> npm start
 > Tinggal scan kode qr yeee...done
+```
+```bash
+> misalnya kode qrnya belum muncul
+> ketik pkg install mc
+> mc
+> hapus file session.json
+> npm start
+> misalnya masih belum nongol qrnya
+> git clone https://github.com/IntiTutorial/tombol
+> cd tombol
+> cd
+> cd YiyiBott
+> pkg install nano
+> nano index.js
+> terus cari BarBar.json
+> diganti dengan session.json
+> ctrl + c
+> npm start
 ```
 
 
