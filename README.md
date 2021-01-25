@@ -51,12 +51,12 @@ Siapin alat dan bahannya.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri MaslentGans.
+Script ini di modifikasi sama MaslentGans dn dimodifikasi oleh saya (walaupun sedikit).
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/ICHI-LENT/ichi
-> cd ichi-lent/ichi
+> git clone https://github.com/Arga2108/YiyiBott
+> cd YiyiBott
 > bash install.sh
 > node index js
 > Tinggal scan kode qr yeee...done
