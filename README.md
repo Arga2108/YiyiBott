@@ -61,6 +61,8 @@ Script ini di modifikasi sama MaslentGans dn dimodifikasi oleh saya (walaupun se
 > npm start
 > Tinggal scan kode qr yeee...done
 ```
+
+### Cara agar ada qrnya :
 ```bash
 > misalnya kode qrnya belum muncul
 > ketik pkg install mc
