@@ -30,12 +30,15 @@
 </details>
 
 XXX 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
+XXX Thanks For MasLent
 
 XXX WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+DILARANG UBAH INFO!!!
 
 XX NOTE:> 
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
+
+SAYA MEMBUAT GITHUB INI UNTUK MEMPERNAMBAH SESUATU + ADA TUTORNYA :V
 </div>
 
 XXX ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
@@ -47,7 +50,7 @@ Siapin alat dan bahannya.
 > penyimpanan yang memadai
 > aplikasi whatsapp
 > aplikasi termux
-> kopi+rokok ;v
+> kopi+rokok ;v (buat yg ngerokok)
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
