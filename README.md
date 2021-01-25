@@ -82,6 +82,18 @@ Script ini di modifikasi sama MaslentGans dn dimodifikasi oleh saya (walaupun se
 > npm start
 ```
 
+### Cara Ubah nomor owner , vcard , dll
+```
+> git clone https://github.com/IntiTutorial/tombol
+> cd tombol
+> cd
+> cd YiyiBott
+> pkg install nano
+> nano index.js
+> yg harus diubah : ownernumber , mod , adminbotnumber , premium , frendsowner , vcard , bugreport , request , donate 
+> terus ketik ctrl + c
+> npm start
+```
 
 Ket: Aktiv 24 jam
 
