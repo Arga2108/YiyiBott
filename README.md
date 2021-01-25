@@ -11,13 +11,13 @@
 <a href="#"><img title="😎ARGA😎" src="https://img.shields.io/badge/YIYI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ichi-lent"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MASLENT GANS-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ichi-lent"><img title="Author" src="https://img.shields.io/badge/ARGA-PRATAMA-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/ichi-lent/ichi/badge/main"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Arga2108/YiyiBott/followers"><img title="Followers" src="https://img.shields.io/github/followers/YiyiBott?color=blue&style=flat-square"></a>
+<a href="https://github.com/Arga2108/YiyiBott/followers"><img title="Followers" src="https://img.shields.io/github/followers/Arga2108?color=blue&style=flat-square"></a>
 <a href="https://github.com/Arga2108/YiyiBott/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Arga2108/YiyiBott?color=red&style=flat-square"></a>
 <a href="https://github.com/Arga2108/YiyiBott/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Arga2108/YiyiBott?color=red&style=flat-square"></a>
 <a href="https://github.com/Arga2108/YiyiBott/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Arga2108/YiyiBott?label=Watchers&color=blue&style=flat-square"></a>
