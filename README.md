@@ -98,19 +98,21 @@ Script ini di modifikasi sama MaslentGans dn dimodifikasi oleh saya (walaupun se
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi MASLENT`](08165466368) VIPUL
+* [`Donasi ARGA`](https://saweria.co/YiyiBot) SAWERIA
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](MAS LENT YT)
-* [`Instagram Admin`](https://instagram.com/_maslent11)
-* [`WhatsApp Admin `](https://wa.me/+628165466368)
+* [`Youtube Admin`](Arga HH)
+* [`Instagram Admin`](https://instagram.com/arga.hh)
+* [`WhatsApp Admin `](https://wa.me/+6285752164908)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
+
+* [`MASLENTGANS`](https://github.com/ichi-lent/ichi)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
 
